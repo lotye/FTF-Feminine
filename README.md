@@ -14,7 +14,8 @@ Outils:
 
     Vs Code
 
-Structure des fichiers /movies.js - -blog.php -connexion.php -energy_space.php -footer.php -mentor.php -menu.php -postule.php -programme.php /assets
+Structure des fichiers /movies.js - app.js -index.php
+
 About
 Readme
 "# FTF-Feminine" 
